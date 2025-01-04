@@ -21,7 +21,11 @@ Trip_Buddy is your ultimate travel companion that helps you plan, organize, and 
 
 Here’s a look at the app interface:
 
-![Trip_Buddy Interface](images/interface.png)
+<div style="overflow-x: auto; white-space: nowrap;">
+  <img src="images/trip1.png" alt="Screenshot 1" style="width: 100%; max-width: 400px; display: inline-block; margin-right: 10px;">
+  <img src="images/trip2.png" alt="Screenshot 2" style="width: 100%; max-width: 400px; display: inline-block; margin-right: 10px;">
+  <img src="images/trip3.png" alt="Screenshot 3" style="width: 100%; max-width: 400px; display: inline-block; margin-right: 10px;">
+</div>
 
 ## Installation
 
