@@ -9,7 +9,7 @@ Trip_Buddy is your ultimate travel companion that helps you plan, organize, and 
 - **Trip Sharing**
 - **Real-Time Updates**
 
-![Trip_Buddy Logo](images/logo.png)
+![Trip_Buddy Logo](ui/public/images/trip1.PNG)
 
 ## Technologies Used
 
