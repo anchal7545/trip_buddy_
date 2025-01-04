@@ -1,0 +1,22 @@
+
+.header_animation{
+     animation-name: header;
+     animation-duration: 1s;
+     animation-fill-mode: forwards;
+     position: relative;
+     animation-delay: 0s;
+}
+
+@keyframes header {
+    0%{
+      top: -150px; 
+    } 
+    100%{
+       top: 0px;  
+       background-color:white;
+    }
+}
+
+.selected{
+  @apply border border-green-400
+}

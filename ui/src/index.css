@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
+
+
+/* Scroll Bar */
+
+::-webkit-scrollbar-track {
+    background-color: #464444;
+  }
+  
+  ::-webkit-scrollbar {
+    width: 8px;
+    background-color: #696969;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: rgba(224, 223, 223, 0.2);
+    border: 0px;
+    background-clip: padding-box;
+    border-radius: 5px;
+}
+
+.bg-image::after{
+     content: "";
+     position: absolute;
+     width: 100%;
+     height: 100%;
+     top: 0;
+     left: 0;
+     /* background-color: rgba(0, 0, 0, 0.55); */
+     background-color: rgba(0, 0, 0, 0.76);
+}
+
+.chat-image::after{
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  overflow-y: auto;
+  left: 0;
+  /* background-color: rgba(0, 0, 0, 0.55); */
+  background-color: rgba(0, 0, 0, 0.76);
+}
+
+.background{
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+}
+
+
+
+@layer components {
+  .actice_chat {
+    @apply bg-stone-900 text-stone-300 border border-[#ddd4c3]
+  }
+}
