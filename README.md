@@ -23,7 +23,6 @@ Here’s a look at the app interface:
 
 <div style="overflow-x: auto; white-space: nowrap;">
   <img src="ui/public/images/trip1.PNG" alt="Screenshot 1" style="width: 100%; max-width: 400px; display: inline-block; margin-right: 10px;">
-  <img src="ui/public/images/trip2.PNG" alt="Screenshot 2" style="width: 100%; max-width: 400px; display: inline-block; margin-right: 10px;">
   <img src="ui/public/images/trip4.PNG" alt="Screenshot 3" style="width: 100%; max-width: 400px; display: inline-block; margin-right: 10px;">
   <img src="ui/public/images/trip5.PNG" alt="Screenshot 3" style="width: 100%; max-width: 400px; display: inline-block; margin-right: 10px;">
   <img src="ui/public/images/trip6.PNG" alt="Screenshot 3" style="width: 100%; max-width: 400px; display: inline-block; margin-right: 10px;">
