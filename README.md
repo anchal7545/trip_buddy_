@@ -1,6 +1,6 @@
 # Trip_Buddy
 
-Trip_Buddy is your ultimate travel companion that helps you plan, organize, and share your trips effortlessly.
+It allow users to search online for travel companions for their desired destination. User can create new travel group and invite friends.
 
 ## Features
 
